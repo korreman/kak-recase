@@ -5,7 +5,7 @@ Replace multiple selections while preserving capitalization of the replaced text
 ## Installation
 
 Build or grab the `kak-recase` binary from a release and put it in your path.
-Add `eval %sh{kak-recase --config}` to your kakrc to define get the `recase` command.
+Add `eval %sh{kak-recase --generate-config}` to your kakrc to define get the `recase` command.
 
 ## Usage
 
